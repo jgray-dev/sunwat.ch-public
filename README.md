@@ -5,7 +5,7 @@
 
 This is a *full* archieve of sunwatch version 2.
 12/15/2024:
-- This now includes full access to the backend portion of the app (PHP) including how iw as authorizing myself to delete user's posts, view feedback, and submit changes to the changelog. It's kinda funny looking back how silly and insecure it is, but it held up great, did what i wanted, and damn was i proud of it when i made it.
+- This now includes full access to the backend portion of the app (PHP) including how i was authorizing myself to delete user's posts, view feedback, and submit changes to the changelog. It's kinda funny looking back how silly and insecure it is, but it held up great, did what i wanted, and damn was i proud of it when i made it.
 - Deactivated v2.sunwat.ch domain - rip v2
 ####
 
