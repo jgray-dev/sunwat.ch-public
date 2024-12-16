@@ -1,29 +1,27 @@
-# Sunwat.ch
+# Sunwatch (version 2) archive
 
-### A new way to view the sun
 
-~~----------------------------------------------------------------------------------------------------~~
+####
 
-#### Local page - shows rating for your current location - or anywhere in the world you'd like to search
+This is a *full* archieve of sunwatch version 2.
+12/15/2024:
+- This now includes full access to the backend portion of the app (PHP) including how iw as authorizing myself to delete user's posts, view feedback, and submit changes to the changelog. It's kinda funny looking back how silly and insecure it is, but it held up great, did what i wanted, and damn was i proud of it when i made it.
+- Deactivated v2.sunwat.ch domain - rip v2
+####
 
-- Autocomplete search box for locations around the world
-- Shows a live webcam of the location you search - or the nearest webcam at least
-- Color coordinated ratings and values when displaying data (red bad, green good!)
+Here are some images of the UI while it was still working. No images of the world page exist because windy was constantly changing location keys, and it got to the point where only one of them was active so it looked dumb lol
 
-#### World page - shows ratings and webcams hand selected from around the world!
 
-- Will only show webcams that have a sunrise or sunset in the next 5 hours
-- Shows ratings and all data for each location
-- Webcam shows timelapse of last 24hours
+### Local page - view the current conditions predicted for sunrise/sunset at the location searched
+![Local page](https://raw.githubusercontent.com/jgray-dev/sunwat.ch-public/refs/heads/main/%7BD1AC487A-208A-4AD0-ACAB-8E4B044FBE29%7D.png)
 
-#### Gallery page
+### Gallery page - view user submissions from around the world, and the data associated with the ratings
+![Gallery page](https://raw.githubusercontent.com/jgray-dev/sunwat.ch-public/refs/heads/main/%7BA2D2502E-9AB1-4451-A526-AB3C0F92F420%7D.png)
 
-- A place users can upload pictures of the sunrise or sunset!
-- Automatically inputs all data in the form, and prompts the user for comments and an image
-- Automatically uploads images and json to a remote server (running PHP) to be fetched later
-- **actually works lol**
+### Changelog page - view various changes made to the app over time. (i was pretty proud of this)
+![Changelog page](https://raw.githubusercontent.com/jgray-dev/sunwat.ch-public/refs/heads/main/%7B7B777CEB-9C68-43B8-8D19-1524D9130D9B%7D.png)
 
-#### Changelog
+####
 
-- Simple place I can POST/GET data from a remote server containing changes I make to the website
-- Easy to understand, visually nice
+This version of the project is now dead to me. version 3 is much improved, and you can view it all [here](https://github.com/jgray-dev/swv3/tree/main)
+If anyone would like to use code i've written here, please feel free. Any questions, comments, or concerns, email me [jackson@jgray.cc](mailto:jackson@jgray.cc)
