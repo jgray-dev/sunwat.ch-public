@@ -6,7 +6,7 @@
 This is a *full* archieve of sunwatch version 2.
 12/15/2024:
 - This now includes full access to the backend portion of the app (PHP) including how i was authorizing myself to delete user's posts, view feedback, and submit changes to the changelog. It's kinda funny looking back how silly and insecure it is, but it held up great, did what i wanted, and damn was i proud of it when i made it.
-- Deactivated v2.sunwat.ch domain - rip v2
+- Deactivated my accuweather account. The [archive website](https://v2.sunwat.ch/) should work until around january when my accuweather package expires - so ill keep it up until then :)
 ####
 
 Here are some images of the UI while it was still working. No images of the world page exist because windy was constantly changing location keys, and it got to the point where only one of them was active so it looked dumb lol
